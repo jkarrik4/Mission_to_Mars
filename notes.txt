@@ -1,0 +1,1 @@
+I'm sure I'm missing something obvious but I cannot get the scraped text to actually load in the index file. I should have started this one in particular earlier.
